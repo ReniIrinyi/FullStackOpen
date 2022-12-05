@@ -9,6 +9,6 @@ This repository contains my own exercise solutions to the 2022/23 edition of the
 
 
 <h2>About the course<h2>
-<h4>The course introduce to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. This course covers: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.<h4>
+<h3>The course introduce to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. This course covers: React, Redux, Node.js, MongoDB, GraphQL and TypeScript.<h3>
 
 
