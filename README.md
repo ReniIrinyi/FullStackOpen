@@ -1,4 +1,4 @@
-<h1 align="center">Renáta Irinyi - Solutions to the Full Stack Open Course from the Uni from Helsinki</h1>
+<h1 align="center">Renáta Irinyi - Solutions to the Full Stack Open Course from the Uni of Helsinki</h1>
 
 
 
