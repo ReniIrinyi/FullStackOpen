@@ -4,7 +4,7 @@
 
 
 <div align="center">
-This repository contains my own exercise solutions to the 2022/23 edition of the [Full-Stack-Open](https://fullstackopen.com/en/) Course from the [University-of-Helsinki](https://www.helsinki.fi/en).
+This repository contains my own exercise solutions to the 2022/23 edition of the [Full-Stack-Open] (https://studies.helsinki.fi/courses/cur/otm-dbf5a51d-2121-4110-af0f-f1e8f0b74fb9) Course from the [University-of-Helsinki](https://www.helsinki.fi/en).
 </div>
 
 
