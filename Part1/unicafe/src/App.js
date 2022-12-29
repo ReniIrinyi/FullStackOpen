@@ -1,4 +1,5 @@
-import { ContactPhoneTwoTone } from "@material-ui/icons";
+
+const App = () => {
 
 const course = {
   name: "Half Stack application developement",
@@ -17,6 +18,8 @@ const course = {
     },
   ],
 };
+
+
 const name = course.parts.map((part) => part.name).join(", ");
 const amount = course.parts
   .map((part) => part.exercises)
@@ -24,24 +27,12 @@ const amount = course.parts
     return acc + curr;
   });
 
-const App = () => {
-  console.log(amount);
-  return (
-    <div>
-      <div>
-        <Header></Header>
-      </div>
-      <Content></Content>
-      <div></div>
-      <Total></Total>
-    </div>
-  );
-};
+  
 
 const Header = () => {
   return (
     <div>
-      <h1>Course Name:{course.name}</h1>
+      <h1>Course Name: {course.name}</h1>
     </div>
   );
 };
@@ -56,4 +47,17 @@ const Total = () => {
   return <div>Amount of Exercises: {amount}</div>;
 };
 
+
+
+
+return (
+  <div>
+    <Header></Header>
+    <Content></Content>
+    <Total></Total>
+  </div>
+);
+};
 export default App;
+
+
